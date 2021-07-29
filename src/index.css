@@ -117,6 +117,7 @@ p {
   body {
     font-size: 1rem;
   }
+  
   h1,
   h2,
   h3,
@@ -124,9 +125,11 @@ p {
     line-height: 1;
   }
 }
+
 /*  global classes */
 
 /* section */
+
 .section {
   width: 90vw;
   margin: 0 auto;
