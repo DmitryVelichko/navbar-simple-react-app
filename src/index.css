@@ -160,6 +160,7 @@ p {
 Navbar
 ===============
 */
+
 nav {
   background: var(--clr-white);
   box-shadow: var(--light-shadow);
