@@ -186,6 +186,7 @@ nav {
   color: var(--clr-primary-1);
   transform: rotate(180deg);
 }
+
 .logo {
   height: 40px;
 }
