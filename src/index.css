@@ -242,6 +242,7 @@ nav {
   .links-container {
     height: auto !important;
   }
+  
   .links {
     display: flex;
   }
